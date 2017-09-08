@@ -1,7 +1,7 @@
 127.0.0.1	localhost
-127.0.1.1	concilio-renald
-127.0.0.1	preprod.concilio.com
-127.0.0.1	recipe.concilio.com
+127.0.1.1	venantvr
+127.0.0.1	test.business-rules.com
+127.0.0.1	www.business-rules.com
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
