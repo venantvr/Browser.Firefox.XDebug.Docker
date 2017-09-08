@@ -19,7 +19,4 @@ docker run -ti --rm -e DISPLAY=$DISPLAY \
     --security-opt \
     seccomp:./chrome.json \
     browser bash
-    # \
-    # /home/developer/start.sh   
-    # bash
-
+    
