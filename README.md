@@ -11,5 +11,4 @@
     ██   ██ ██    ██ ██      ██  ██  ██      ██   ██                                                          
     ██████   ██████   ██████ ██   ██ ███████ ██   ██                                                          
                                                                                                           
-                                                                                                          
 Déboguer un WordPress (ou une application PHP...) à partir d'un navigateur sanctuarisé dans un conteneur Docker...
